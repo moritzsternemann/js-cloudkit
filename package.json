@@ -1,0 +1,22 @@
+{
+  "name": "js-cloudkit",
+  "version": "0.1.0",
+  "description": "Highlevel wrapper for Apples CloudKit",
+  "main": "dist/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:moritzsternemann/js-cloudkit"
+  },
+  "keywords": [
+    "javascript",
+    "cloudkit",
+    "apple",
+    "schema",
+    "backend"
+  ],
+  "dependencies": {
+    "schema-object": "^4.0.11"
+  },
+  "author": "Moritz Sternemann <me@moritzsternemann.de>",
+  "license": "MIT"
+}
